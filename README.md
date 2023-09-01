@@ -1,4 +1,4 @@
-<h3 align="left">Hi 👋! My name is Deepak and I'm a Aspiring engineering student seeking software job opportunities, from Andhra Pradesh, India.</h3>
+<h3 align="left">Hi 👋! My name is Deepak and I'm a Aspiring engineering student seeking software job opportunities, from MNIT, Jaipur.</h3>
 
 ###
 
